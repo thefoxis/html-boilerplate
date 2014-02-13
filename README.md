@@ -13,9 +13,6 @@ Before getting into writing content, make sure you update the following accordin
 * CSS includes
 * Javascript includes
 
-## Author
-[Karolina Szczur](https://github.com/thefoxis)
-
 ## License
 
 MIT
