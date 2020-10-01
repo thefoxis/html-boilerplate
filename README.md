@@ -9,7 +9,7 @@ Before getting into writing content, make sure you update the following accordin
 * Document's language
 * Meta description
 * Title
-* Favicon file
+* Favicon Logo file
 * CSS includes
 * Javascript includes
 
