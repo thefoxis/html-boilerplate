@@ -1,6 +1,6 @@
 # HTML Boilerplate
 
-This boilerplate is a bare-minimum and standard-compliant starting point for applications and websites. Available in pure HTML and [Jade](http://jade-lang.com/) for usage with [Node.js](http://nodejs.org/).
+This Boilerplate is a bare-minimum and standard-compliant starting point for application and websites. Available in pure HTML5 and [Jade](http://jade-lang.com/) for usage with [Node.js](http://nodejs.org/).
 
 ## Customization
 
