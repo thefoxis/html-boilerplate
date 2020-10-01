@@ -1,8 +1,8 @@
-# HTML Boilerplate
+#  The HTML Boilerplate
 
 This boilerplate is a bare-minimum and standard-compliant starting point for applications and websites. Available in pure HTML and [Jade](http://jade-lang.com/) for usage with [Node.js](http://nodejs.org/).
 
-## Customization
+## Customizations Ahead:
 
 Before getting into writing content, make sure you update the following according to your needs:
 
@@ -13,6 +13,6 @@ Before getting into writing content, make sure you update the following accordin
 * CSS includes
 * Javascript includes
 
-## License
+## License:
 
 MIT
